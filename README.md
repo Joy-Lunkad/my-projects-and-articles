@@ -1,4 +1,4 @@
-# [Replicating Frozen with GPT-J](https://www.notion.so/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8?pvs=21)
+# [Replicating Frozen with GPT-J]([https://www.notion.so/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8?pvs=21](https://joylunkad.notion.site/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8))
 
 I replicated Deepmind’s [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884). 
 
