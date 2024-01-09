@@ -1,4 +1,4 @@
-# [Replicating Frozen with GPT-J]([https://www.notion.so/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8?pvs=21](https://joylunkad.notion.site/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8))
+# [Replicating Frozen with GPT-J](https://joylunkad.notion.site/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8)
 
 I replicated Deepmind’s [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884). 
 
@@ -17,11 +17,11 @@ Question 2: What are the players doing? Answer:
 Question 1: In the picture, what color jerseys are the players wearing? Answer: Green tshirts and black shorts. 
 Question 2: What are the players doing? Answer: They’re warming up for a game
 
-# [Generative Weather forecasting](https://www.notion.so/Generative-Weather-forecasting-5c8573cb95774ef18291397157e5687a?pvs=21)
+# [Generative Weather forecasting](https://joylunkad.notion.site/Generative-Weather-forecasting-5c8573cb95774ef18291397157e5687a?pvs=4)
 
 I designed a novel deep generative 3D-CNN-Transformer Hybrid architecture to build a computationally tractable global climate forecasting engine. 
 
-# [Modelling the thousand brains theory of intelligence](https://www.notion.so/Modelling-the-thousand-brains-theory-of-intelligence-ade9b2db8f2f4f58ad9a4716e7d79285?pvs=21)
+# [Modelling the thousand brains theory of intelligence](https://joylunkad.notion.site/Modelling-the-thousand-brains-theory-of-intelligence-ade9b2db8f2f4f58ad9a4716e7d79285?pvs=4)
 
 I proposed a novel convolutional architecture that improves upon traditional CNNs by building upon Jeff Hawkins’ brilliant thousand brains theory of intelligence.
 
