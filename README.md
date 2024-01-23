@@ -1,3 +1,4 @@
+For code samples, please take a look at a couple of files from the TO-BE-PUBLISHED-SOON Ai-Memory Research above
 # [Replicating Frozen with GPT-J](https://joylunkad.notion.site/Replicating-Frozen-with-GPT-J-7dd8238bda664cf489c7b1187256ffc8)
 
 I replicated Deepmind’s [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884). 
